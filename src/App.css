@@ -7,3 +7,11 @@
   display: block;
   margin: 0 auto;
 }
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+  font-size: 14px;
+}
+body {
+  background-color: rgb(56, 93, 125);
+}
