@@ -1,0 +1,16 @@
+.Jodahelp {
+    background-color: #E1F4FE;
+    color: rgb(135,135,135);
+    border: 1px solid #dadde1;
+    padding: 16px;
+    margin: 30px auto;
+   font-family: Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    box-shadow: 0 30px 50px rgba(65, 50, 100, .08);
+}
+.Jodahelp form {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+
+}
