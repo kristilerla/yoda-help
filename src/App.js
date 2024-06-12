@@ -1,5 +1,6 @@
 import logo from './logo.png';
 import './App.css';
+
 import Dictionary from "./Dictionary";
 import Jodahelp from "./Jodahelp";
 import ChatGPT from './ChatGPT';
@@ -19,7 +20,7 @@ function App() {
     
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="wine" />
 
         <Jodahelp />
 
