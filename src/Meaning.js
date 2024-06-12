@@ -12,7 +12,7 @@ return (
             <div key={index}>
                 <p>
                     <strong>Definition:</strong>
-                    <br />
+                
                     {definition.definition}
                     <br />
                     <strong>Example:</strong>
@@ -21,7 +21,7 @@ return (
                     <Synonyms synonyms={definition.synonyms} />             
                 </p>
                 </div>  
-        )
+        );
     })}
   
     </div>
